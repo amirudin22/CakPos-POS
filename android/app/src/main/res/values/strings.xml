@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CakPos</string>
+    <string name="title_activity_main">CakPos</string>
+    <string name="package_name">com.antigravity.pos</string>
+    <string name="custom_url_scheme">com.antigravity.pos</string>
+</resources>
